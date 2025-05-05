@@ -1,5 +1,3 @@
-# Hi there! 👋 
-
 ## About Me 🚀
 
 I'm a passionate developer who loves creating innovative solutions and contributing to the open-source community. My journey in technology is driven by curiosity and a constant desire to learn new things.
