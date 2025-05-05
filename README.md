@@ -43,3 +43,7 @@ I'm a passionate developer who loves creating innovative solutions and contribut
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet" alt="Profile views counter"/>
 </div>
+
+<div>
+    [Snake animation](https://github.com/GabrielMacedoB/GabrielMacedoB/blob/output/github-contribution-grid-snake.svg)
+</div>
