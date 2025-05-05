@@ -1,4 +1,4 @@
-## About Me 🚀
+## Sobre Mim 🚀
 
 Sou um desenvolvedor que adora criar WebSites e Aplicativos Interativos e Com uma otima otimização
 
@@ -7,7 +7,7 @@ Sou um desenvolvedor que adora criar WebSites e Aplicativos Interativos e Com um
 - Melhorar minhas habilidades no desenvolvimento web moderno
 - Contribuir para projetos de código aberto
 
-### 🌱 Skills & Technologies
+### 🌱 habilidades
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -23,7 +23,7 @@ Sou um desenvolvedor que adora criar WebSites e Aplicativos Interativos e Com um
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMacedoB&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-### 📫 How to Reach Me
+### 📫 Onde Podera me Encontrar
 
 - 📧 Email: gabrielmbezerra6@gmail.com
 - 💼 LinkedIn: [Gabriel Macedo](https://www.linkedin.com/feed/)
