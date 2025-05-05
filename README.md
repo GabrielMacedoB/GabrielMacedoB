@@ -1,11 +1,11 @@
 ## About Me 🚀
 
-I'm a passionate developer who loves creating innovative solutions and contributing to the open-source community. My journey in technology is driven by curiosity and a constant desire to learn new things.
+Sou um desenvolvedor que adora criar WebSites e Aplicativos Interativos e Com uma otima otimização
 
-### 🔭 What I'm Currently Working On
-- Building amazing web applications with React and TypeScript
-- Improving my skills in modern web development
-- Contributing to open-source projects
+### 🔭 No Que Estou Atualmente Trabalhando
+- No Que Estou Atualmente Trabalhando Construindo aplicações web incríveis com React e TypeScript 
+- Melhorar minhas habilidades no desenvolvimento web moderno
+- Contribuir para projetos de código aberto
 
 ### 🌱 Skills & Technologies
 
