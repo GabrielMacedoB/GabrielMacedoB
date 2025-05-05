@@ -31,7 +31,6 @@ I'm a passionate developer who loves creating innovative solutions and contribut
 
 ---
 
-⭐️ From [YOUR_USERNAME](https://github.com/YOUR_USERNAME)
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet" alt="Profile views counter"/>
