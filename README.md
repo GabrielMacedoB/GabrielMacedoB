@@ -25,9 +25,8 @@ I'm a passionate developer who loves creating innovative solutions and contribut
 
 ### 📫 How to Reach Me
 
-- 📧 Email: your.email@example.com
-- 💼 LinkedIn: [Your Name](https://linkedin.com/in/YOUR_LINKEDIN)
-- 🌐 Website: [your-website.com](https://your-website.com)
+- 📧 Email: gabrielmbezerra6@gmail.com
+- 💼 LinkedIn: [Gabriel Macedo](https://www.linkedin.com/feed/)
 
 ---
 
