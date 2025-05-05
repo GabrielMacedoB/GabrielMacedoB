@@ -1,9 +1,5 @@
 # Hi there! 👋 
 
-<div align="center">
-  <img src="https://images.pexels.com/photos/7988079/pexels-photo-7988079.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" alt="Banner" width="100%" height="300" style="object-fit: cover;">
-</div>
-
 ## About Me 🚀
 
 I'm a passionate developer who loves creating innovative solutions and contributing to the open-source community. My journey in technology is driven by curiosity and a constant desire to learn new things.
